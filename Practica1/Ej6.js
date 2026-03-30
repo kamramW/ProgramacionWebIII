@@ -1,0 +1,6 @@
+const arr = [10, 20, 30, 40];
+
+const [a, b] = arr;
+
+console.log(a); // 10
+console.log(b); // 20
